@@ -1,0 +1,18 @@
+{
+  "name": "meteorwallaby",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.42",
+    "@mindhive/babel-plugin-root-import": "^5.0.0",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "meteor-babel": "^0.21.5",
+    "meteor-node-stubs": "^0.2.11"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0"
+  }
+}
